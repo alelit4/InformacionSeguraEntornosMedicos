@@ -255,7 +255,9 @@ ul.arrowi li:before {
  font-size: 60px;
 }
 
-
+#slide15 h1, #slide12_ h1{
+  font-size: 40px;
+}
 
 #goleft {
   margin-top: 0%;
